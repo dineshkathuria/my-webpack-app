@@ -6,7 +6,7 @@ console.log('================== Git Version ==================', gitRevisionPlug
 console.log('p                                                                               p');
 
 
-console.log('p        hjkhhkhkjhk                                                                         p');
+console.log('p        hjkhhkhkjhk       dev changes                                                                  p');
 
 module.exports = {
     plugins: [
